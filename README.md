@@ -13,7 +13,7 @@ To reproduce these results, follow these steps:
     * Move to the ./Docker_file/ directory of this repo
 
 4.  Build the container:
-    * ```docker build --tag hiv-vaccine-candidate-efficacy```
+    * ```docker build --tag hiv-vaccine-candidate-efficacy .```
 
 5.  Navidate to the cloned repository directory, Run the conainer by mounting the ./src/ directory of the repo to /tmp/ in the container:
     * ```docker run -ti -v $(pwd)/src:/tmp hiv-vaccine-candidate-efficacy```
