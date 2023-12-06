@@ -1,5 +1,5 @@
 # HIV-vaccine-candidate-efficacy
-This code accompanies the paper entitled: HIV vaccine candidate efficacy mediated by cyclic AMP-dependent efferocytosis and V2-specific ADCC
+This code accompanies the paper: Bissa M, Kim S, Galli V, Fourati S, Sarkis S, Arakelyan A, de Castro IS, Rahman MA, Fujiwara S, Vaccari M, Tomalka JA, Stamos JD, Schifanella L, Gorini G, Moles R, Gutowska A, Ferrari G, Lobanov A, Montefiori DC, Nelson GW, Cam MC, Chakhtoura M, Haddad EK, Doster MN, McKinnon K, Brown S, Venzon DJ, Choo-Wosoba H, Breed MW, Killoran KE, Kramer J, Margolis L, Sekaly RP, Hager GL, Franchini G. HIV vaccine candidate efficacy in female macaques mediated by cAMP-dependent efferocytosis and V2-specific ADCC. Nat Commun. 2023 Feb 2;14(1):575. doi: 10.1038/s41467-023-36109-8. [Pubmed Link](https://pubmed.ncbi.nlm.nih.gov/36732510/)
 
 To reproduce these results, follow these steps:
 
